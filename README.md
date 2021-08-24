@@ -1,8 +1,5 @@
 ### Olá, eu sou o Jean👋
 - 🌱 Estudando: Análise e Desenvolvimento de Sistemas
-- 😄 Pronome: ele/dele
-- 🍺 Fun fact: Bohemio de carteirinha
-
 <div>
   <a href="https://beacons.ai/rafaballerini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeandertrevia&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>

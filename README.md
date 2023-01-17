@@ -1,6 +1,7 @@
 <div align="center">
 Olá, eu sou o Jeander👋<br>
 Estudante Análise e Desenvolvimento de Sistemas 3/6 - Apaixonado por tecnologia
+ <br>
  </div>
  
 <div align="center">

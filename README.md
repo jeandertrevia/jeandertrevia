@@ -1,6 +1,6 @@
 <div align="center">
 Olá, eu sou o Jeander👋<br>
-Estudante Análise e Desenvolvimento de Sistemas 5/6 - Apaixonado por tecnologia
+Formado em ADS, cursando Engenharia de dados e atualmente atuando como Analista de dadaos na Empresa M7 Soluções Financeiras.
 </div>
 <br>
  

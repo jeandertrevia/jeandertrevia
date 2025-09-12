@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;Engenheiro+de+Dados+Pleno;Transformando+dados+em+insights+estratégicos+📈;ADS+Graduate+%7C+Data+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;Analista+de+Dados+Pleno+na+M7+Soluções+Financeiras;Transformando+dados+em+insights+estratégicos+📈;ADS+Graduate+%7C+Data+Engineering+Student)](https://git.io/typing-svg)
 
 </div>
 
@@ -138,7 +138,7 @@ ORDER BY relevancia DESC;
 
 <div align="center">
   
-**"Dados são o novo petróleo, mas insights são o combustível que move o negócio"** 🚀
+**"Transformar dados em decisões mais inteligentes, com menos achismo e mais resultado"** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeandertrevia&color=4A90E2&style=flat-square&label=Profile+Views)
 

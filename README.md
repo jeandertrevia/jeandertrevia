@@ -1,8 +1,8 @@
-# 📊 Jeander Trevia | Data Analytics Professional
+# 📊 Jeander Trevia | Data Engineer & Analytics
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;Analista+de+Dados+Pleno+na+M7+Soluções+Financeiras;Transformando+dados+em+insights+estratégicos+📈;ADS+Graduate+%7C+Data+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;Engenheiro+de+Dados+Pleno;Transformando+dados+em+insights+estratégicos+📈;ADS+Graduate+%7C+Data+Engineering+Student)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,19 +34,25 @@ class DataAnalyst:
 
 ### 💾 **Databases & Analytics**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon%20redshift&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 
 ### 🐍 **Data Science & Programming**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### 📊 **Visualization & BI**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🔄 **Data Engineering & ETL**
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
 
 ### ⚙️ **Tools & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,15 +90,6 @@ class DataAnalyst:
 
 </div>
 
-## 💼 Projetos em Destaque
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeandertrevia&repo=data-analysis-project&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2)](https://github.com/jeandertrevia/data-analysis-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeandertrevia&repo=financial-dashboard&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2)](https://github.com/jeandertrevia/financial-dashboard)
-
-</div>
-
 ## 📚 Áreas de Interesse
 
 ```sql
@@ -112,14 +109,6 @@ WHERE area IN (
 ORDER BY relevancia DESC;
 ```
 
-## 🎯 Objetivos 2024-2025
-
-- [ ] 🎓 Concluir Engenharia de Dados
-- [ ] 📊 Certificações em Cloud (AWS/Azure)
-- [ ] 🤖 Especialização em Machine Learning
-- [ ] 🚀 Projetos Open Source em Data Science
-- [ ] 📈 Avançar para Senior Data Analyst
-
 ## 📫 Vamos Conectar!
 
 <div align="center">
@@ -138,7 +127,7 @@ ORDER BY relevancia DESC;
 
 <div align="center">
   
-**"Transformar dados em decisões mais inteligentes, com menos achismo e mais resultado"** 🚀
+**"Dados são o novo petróleo, mas insights são o combustível que move o negócio"** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeandertrevia&color=4A90E2&style=flat-square&label=Profile+Views)
 

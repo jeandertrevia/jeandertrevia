@@ -16,7 +16,7 @@ class DataEngineer:
             "completed": "Análise e Desenvolvimento de Sistemas",
             "current": "Engenharia de Dados"
         }
-        self.experience = "3+ anos em fintechs e healthtechs"
+        self.experience = "5+ anos em fintechs e healthtechs"
         
     def expertise(self):
         return {

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;CTO+%26+Engenheiro+de+Dados;Arquitetando+soluções+escaláveis+de+dados+🚀;Transformando+dados+em+valor+de+negócio+📊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;Arquitetando+soluções+escaláveis+de+dados+🚀;Transformando+dados+em+valor+de+negócio+📊)](https://git.io/typing-svg)
 
 </div>
 

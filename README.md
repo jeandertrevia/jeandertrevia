@@ -43,8 +43,8 @@ class DataEngineer:
         
     def current_focus(self):
         return [
-            "Sistemas de monitoramento IoT com Grafana + TimescaleDB",
-            "Arquitetura de dados para healthtech (MPI, SLA médico)",
+            "Sistemas de monitoramento IoT",
+            "Arquitetura de dados para healthtech",
             "Soluções de IA e automação empresarial",
             "Integração de múltiplas fontes (APIs, CRMs, bancos relacionais)"
         ]

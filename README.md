@@ -1,85 +1,98 @@
-# 📊 Jeander Trevia | Data Engineer & Analytics
+# 💻 Jeander Trevia | CTO & Engenheiro de Dados
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;Engenheiro+de+Dados+Pleno;Transformando+dados+em+insights+estratégicos+📈;ADS+Graduate+%7C+Data+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Jeander!+👋;CTO+%26+Engenheiro+de+Dados;Arquitetando+soluções+escaláveis+de+dados+🚀;Transformando+dados+em+valor+de+negócio+📊)](https://git.io/typing-svg)
 
 </div>
 
 ## 🎯 Sobre Mim
-
 ```python
-class DataAnalyst:
+class DataEngineer:
     def __init__(self):
         self.name = "Jeander Trevia"
-        self.role = "Analista de Dados Pleno"
-        self.company = "M7 Soluções Financeiras"
+        self.roles = ["CTO @ Axionics", "Engenheiro de Dados Pleno @ M7"]
         self.education = {
             "completed": "Análise e Desenvolvimento de Sistemas",
             "current": "Engenharia de Dados"
         }
+        self.experience = "3+ anos em fintechs e healthtechs"
         
-    def daily_activities(self):
+    def expertise(self):
+        return {
+            "leadership": [
+                "🎯 Liderança técnica e arquitetura de soluções",
+                "🏗️ Definição de stack tecnológica e padrões de desenvolvimento",
+                "📐 Desenvolvimento de arquiteturas de dados escaláveis",
+                "🔄 Estruturação de metodologias ágeis e processos"
+            ],
+            "data_engineering": [
+                "⚡ Pipelines completos: ingestão → transformação → visualização",
+                "🔧 ETL/ELT com Airflow, Airbyte, DBT e Step Functions",
+                "☁️ Arquitetura cloud-native (AWS)",
+                "🤖 Automação de processos com IA e agentes inteligentes",
+                "📊 Modelagem de dados e Data Warehouse",
+                "🔐 Governança de dados e compliance LGPD"
+            ],
+            "technical_consulting": [
+                "💼 Consultoria técnica e levantamento de requisitos",
+                "🚀 Gestão de projetos da concepção ao deploy",
+                "🎨 Tradução de complexidade técnica para stakeholders"
+            ]
+        }
+        
+    def current_focus(self):
         return [
-            "📊 Análise de dados financeiros",
-            "🔍 Descoberta de insights estratégicos", 
-            "📈 Criação de dashboards e relatórios",
-            "🤖 Automação de processos analíticos"
+            "Sistemas de monitoramento IoT com Grafana + TimescaleDB",
+            "Arquitetura de dados para healthtech (MPI, SLA médico)",
+            "Soluções de IA e automação empresarial",
+            "Integração de múltiplas fontes (APIs, CRMs, bancos relacionais)"
         ]
 ```
+
 
 ## 🚀 Stack Tecnológica
 
 <div align="center">
 
-### 💾 **Databases & Analytics**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon%20redshift&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
-
-### 🐍 **Data Science & Programming**
+### 🔄 **Processamento & Transformação**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-### 📊 **Visualization & BI**
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🔄 **Data Engineering & ETL**
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
-### ⚙️ **Tools & DevOps**
+### ⚙️ **Engenharia de Dados**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws%20lambda&logoColor=white)
+![AWS Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+
+### 📨 **Filas & Mensageria**
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 💾 **Bancos de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon%20redshift&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 📊 **BI & Visualização**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20B5E6?style=for-the-badge&logo=apache&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+### 🛠️ **DevOps & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=for-the-badge&logo=amazon%20ecs&logoColor=white)
 
-### 🌐 **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeandertrevia&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeandertrevia&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeandertrevia&theme=react&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak Stats"/>
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeandertrevia&theme=discord&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 ## 📊 Contribution Activity
@@ -90,23 +103,24 @@ class DataAnalyst:
 
 </div>
 
-## 📚 Áreas de Interesse
-
+## 📚 Áreas de Atuação
 ```sql
 SELECT 
-    interesse,
-    nivel_experiencia,
-    aplicacao_profissional
-FROM conhecimentos 
-WHERE area IN (
-    'Análise de Dados Financeiros',
-    'Business Intelligence', 
-    'Data Engineering',
-    'Machine Learning',
-    'Visualização de Dados',
-    'ETL/ELT Processes'
+    area_atuacao,
+    expertise_level,
+    impacto_negocio
+FROM competencias 
+WHERE dominio IN (
+    'Engenharia e Arquitetura de Dados',
+    'Computação em Nuvem (AWS)',
+    'Desenvolvimento ETL/ELT',
+    'Business Intelligence e Analytics',
+    'Data Warehouse e Data Lake',
+    'Automação de Processos',
+    'Desenvolvimento e Integração de APIs',
+    'IA e Machine Learning'
 )
-ORDER BY relevancia DESC;
+ORDER BY experiencia DESC, impacto DESC;
 ```
 
 ## 📫 Vamos Conectar!
@@ -127,7 +141,7 @@ ORDER BY relevancia DESC;
 
 <div align="center">
   
-**"Dados são o novo petróleo, mas insights são o combustível que move o negócio"** 🚀
+**"Resolvendo problemas complexos de dados com eficiência, escalabilidade e governança"** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeandertrevia&color=4A90E2&style=flat-square&label=Profile+Views)
 

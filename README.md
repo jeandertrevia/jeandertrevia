@@ -1,4 +1,4 @@
-# 💻 Jeander Trevia | CTO & Engenheiro de Dados
+# 💻 Jeander Trevia | Engenheiro de Dados
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 class DataEngineer:
     def __init__(self):
         self.name = "Jeander Trevia"
-        self.roles = ["CTO @ Axionics", "Engenheiro de Dados Pleno @ M7"]
+        self.roles = ["Engenheiro de Dados Pleno @ M7"]
         self.education = {
             "completed": "Análise e Desenvolvimento de Sistemas",
             "current": "Engenharia de Dados"

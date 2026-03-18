@@ -11,7 +11,7 @@
 class DataEngineer:
     def __init__(self):
         self.name = "Jeander Trevia"
-        self.roles = ["Engenheiro de Dados Pleno @ M7"]
+        self.roles = ["Engenheiro de Dados Sênior"]
         self.education = {
             "completed": "Análise e Desenvolvimento de Sistemas",
             "current": "Engenharia de Dados"
